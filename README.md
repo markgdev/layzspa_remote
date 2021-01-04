@@ -7,7 +7,7 @@ Located within the pcb directory are the eagle files I used to get the prototype
 Note that the version in here is yet to be printed as there was an error in the first version. It is however possible to set this up without a PCB, however I found it a little messy and difficult to manage when working within the pump unit.
 
 ### Schematic
-Image here
+![Schematic](https://raw.githubusercontent.com/markgdev/layzspa_remote/main/images/pcb_schematic.png)
 
 ### Bill of materials
 - NodeMCU V3 (Note there are other versions of NodeMCU that will not fit this printed PCB, v3 has v0.1 printed in the top right corner)
