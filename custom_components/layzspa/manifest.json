@@ -1,0 +1,8 @@
+{
+  "domain": "layzspa",
+  "name": "layzspa",
+  "documentation": "https://github.com/markgdev",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@markgdev"]
+}
